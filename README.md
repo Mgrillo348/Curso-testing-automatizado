@@ -1,2 +1,2 @@
-# Curso-testing-automatizacion
+# Curso-testing-automatizado
 Curso inicial para pruebas automatizadas
