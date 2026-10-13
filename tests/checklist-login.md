@@ -3,4 +3,5 @@
 - [ ] Login con contraseña incorrecta muestra error
 - [ ] Login con usuario inexistente muestra error
 - [ ] Login con contraseña vacía muestra error
+- [ ] sin login
 - [ ] Login con usuario bloqueado muestra error
